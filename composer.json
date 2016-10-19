@@ -1,0 +1,12 @@
+{
+    "name": "StreamMemcacheClient",
+    "authors": [
+        {
+            "name": "Evgeniy Bilyk",
+            "email": "evgeniy.bilyk@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "5.5.*"
+    }
+}
